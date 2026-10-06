@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Projeto desenvolvido para estudos de banco de dados relacional utilizando PostgreSQL.
+Projeto desenvolvido para estudos de modelagem relacional, estruturação de banco de dados e consultas SQL utilizando PostgreSQL.
 
 ## Tecnologias
 
